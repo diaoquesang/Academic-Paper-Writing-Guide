@@ -79,7 +79,7 @@ Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Wri
 
 首先，我们输入需要匿名的Github repo的链接，默认勾选```Auto update```以实现自动更新
 
-```commit```，即SHA，将会根据输入的链接自动生成
+随后，```commit```，即SHA，将会根据输入的链接自动生成
 
 我们可以通过设置```Anonymize repository id```自定义我们的GitHub repo对应的匿名链接
 
