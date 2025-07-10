@@ -1,5 +1,16 @@
 # 💯 Code-in-Paper-Guide 论文代码插入教程
 
+<div align="center">
+  
+
+[![](https://img.shields.io/github/stars/diaoquesang/Code-in-Paper-Guide)](https://github.com/diaoquesang/Code-in-Paper-Guide)
+[![](https://img.shields.io/github/forks/diaoquesang/Code-in-Paper-Guide)](https://github.com/diaoquesang/Code-in-Paper-Guide)
+[![](https://img.shields.io/github/issues/diaoquesang/Code-in-Paper-Guide)](https://github.com/diaoquesang/Code-in-Paper-Guide/issues)
+[![](https://img.shields.io/github/license/diaoquesang/Code-in-Paper-Guide)](https://github.com/diaoquesang/Code-in-Paper-Guide/blob/main/LICENSE) 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FCode-in-Paper-Guide&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FCode-in-Paper-Guide)
+
+</div>
+
 > 注：本教程仅针对LaTex写作
 
 ## 🥸 使用```hyperref```宏包
