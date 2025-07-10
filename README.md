@@ -1,6 +1,8 @@
-# 💯 Tutorial on Inserting Code into a Paper 论文代码插入教程
+# 💯 Code-in-Paper-Guide 论文代码插入教程
 
 > 注：本教程仅针对LaTex写作
+
+## 🥸 使用```hyperref```宏包
 
 一般而言，我们需要用到```hyperref```宏包来实现链接跳转
 
@@ -23,6 +25,8 @@ Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Wri
 ```
 
 即Our code is available at [https://github.com/diaoquesang/Academic-Paper-Writing-Guide](https://github.com/diaoquesang/Academic-Paper-Writing-Guide).
+
+## 🚫 禁用```hyperref```宏包
 
 特殊情况下，如Annual AAAI Conference on Artificial Intelligence (AAAI)的模板中，```hyperref```宏包被禁用
 
@@ -52,7 +56,9 @@ Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Wri
 
 即可实现代码添加，显示为**Code** — https://github.com/diaoquesang/Academic-Paper-Writing-Guide
 
-对于双盲（Double Blind）投稿，指向GitHub的代码链接可能被认为泄露身份信息而违反双盲原则，从而导致Desk Rejection
+## 🎭 双盲？匿名！
+
+对于双盲评审（Double Blind Review）论文的投稿，指向GitHub的代码链接可能被认为泄露身份信息而违反双盲原则，从而导致Desk Rejection
 
 这种情况下，我们可以使用匿名GitHub链接来完成代码添加
 
