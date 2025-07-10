@@ -18,8 +18,10 @@ Our code is available at \href{跳转目标}{显示目标}.
 
 一般而言，我们会将显示目标和跳转目标都设置为我们的代码链接
 
+以本repo为例
+
 ```
-Our code is available at \href{跳转目标}{显示目标}.
+Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Writing-Guide}{https://github.com/diaoquesang/Academic-Paper-Writing-Guide}.
 ```
 
-即Our code is available at [显示目标](跳转目标).
+即Our code is available at [https://github.com/diaoquesang/Academic-Paper-Writing-Guide](https://github.com/diaoquesang/Academic-Paper-Writing-Guide).
