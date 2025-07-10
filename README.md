@@ -110,3 +110,8 @@ Our code is available at \href{https://anonymous.4open.science/r/Academic-Paper-
 即Our code is available at [https://anonymous.4open.science/r/Academic-Paper-Writing-Guide](https://anonymous.4open.science/r/Academic-Paper-Writing-Guide).
 
 特殊情况不在此赘述
+
+
+## 🥰 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/Code-in-Paper-Guide&type=Date)](https://star-history.com/#diaoquesang/Code-in-Paper-Guide&Date)
