@@ -39,7 +39,7 @@ Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Wri
 
 ## 🚫 禁用```hyperref```宏包
 
-特殊情况下，如The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)的模板中，```hyperref```宏包被禁用
+特殊情况下，如[The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)的模板中，```hyperref```宏包被禁用
 
 ```
 % \usepackage{hyperref} -- This package is specifically forbidden
