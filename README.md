@@ -1,1 +1,1 @@
-# Academic English Guide
+# 💯 A Brief Guide for Academic Paper Writing in English
