@@ -101,6 +101,8 @@ Copyright (c) 2025 XXX
 
 构建完成后，我们可以通过访问[https://anonymous.4open.science/dashboard](https://anonymous.4open.science/dashboard)来查看所有已匿名化的repo
 
+在dashboard页面内，每个匿名repo右侧的```Actions```列表包含了```Force update```按钮，用于手动强制更新匿名repo
+
 最后，我们在摘要的末尾加入匿名代码链接
 
 ```
