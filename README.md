@@ -32,10 +32,10 @@ Our code is available at \href{跳转目标}{显示目标}.
 以本repo为例
 
 ```
-Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Writing-Guide}{https://github.com/diaoquesang/Academic-Paper-Writing-Guide}.
+Our code is available at \href{https://github.com/diaoquesang/Code-in-Paper-Guide}{https://github.com/diaoquesang/Code-in-Paper-Guide}.
 ```
 
-即Our code is available at [https://github.com/diaoquesang/Academic-Paper-Writing-Guide](https://github.com/diaoquesang/Academic-Paper-Writing-Guide).
+即Our code is available at [https://github.com/diaoquesang/Code-in-Paper-Guide](https://github.com/diaoquesang/Code-in-Paper-Guide).
 
 ## 🚫 禁用```hyperref```宏包
 
@@ -61,11 +61,11 @@ Our code is available at \href{https://github.com/diaoquesang/Academic-Paper-Wri
 
 ```
 \begin{links}
-    \link{Code}{https://github.com/diaoquesang/Academic-Paper-Writing-Guide}
+    \link{Code}{https://github.com/diaoquesang/Code-in-Paper-Guide}
 \end{links}
 ```
 
-即可实现代码添加，显示为**Code** — https://github.com/diaoquesang/Academic-Paper-Writing-Guide
+即可实现代码添加，显示为**Code** — https://github.com/diaoquesang/Code-in-Paper-Guide
 
 ## 🎭 双盲？匿名！
 
@@ -106,10 +106,10 @@ Copyright (c) 2025 XXX
 最后，我们在摘要的末尾加入匿名代码链接
 
 ```
-Our code is available at \href{https://anonymous.4open.science/r/Academic-Paper-Writing-Guide}{https://anonymous.4open.science/r/Academic-Paper-Writing-Guide}.
+Our code is available at \href{https://anonymous.4open.science/r/Code-in-Paper-Guide}{https://anonymous.4open.science/r/Code-in-Paper-Guide}.
 ```
 
-即Our code is available at [https://anonymous.4open.science/r/Academic-Paper-Writing-Guide](https://anonymous.4open.science/r/Academic-Paper-Writing-Guide).
+即Our code is available at [https://anonymous.4open.science/r/Code-in-Paper-Guide](https://anonymous.4open.science/r/Code-in-Paper-Guide).
 
 特殊情况不在此赘述
 
