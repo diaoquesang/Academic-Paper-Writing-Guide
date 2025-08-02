@@ -111,7 +111,7 @@ Our code is available at \href{https://anonymous.4open.science/r/Code-in-Paper-G
 
 即Our code is available at [https://anonymous.4open.science/r/Code-in-Paper-Guide](https://anonymous.4open.science/r/Code-in-Paper-Guide).
 
-特殊情况不在此赘述
+特殊情况不在此赘述（如AAAI 2026在Anonymous Submission阶段不允许在摘要和正文中出现外部链接）
 
 
 ## 🥰 Star History
